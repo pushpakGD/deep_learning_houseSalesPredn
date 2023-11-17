@@ -1,1 +1,1 @@
-# House Price Prediction using Deep Learning
+# House Prices Prediction using Deep Learning
